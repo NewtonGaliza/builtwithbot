@@ -1,1 +1,1 @@
-web: python builtwith.py
+web: python builtwithbot.py
